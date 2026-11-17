@@ -1,0 +1,6 @@
+tipo;matricula;nome;salario_base;bonus_ou_horas_extras
+GERENTE;1001;Ana Souza;8000;2000
+GERENTE;1002;Roberto Alves;7500;1500
+DESENVOLVEDOR;2001;Bruno Lima;5000;10
+DESENVOLVEDOR;2002;Carla Mendes;5500;20
+DESENVOLVEDOR;2003;Diego Santos;4800;0
